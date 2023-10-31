@@ -10,6 +10,5 @@ const appRoot = createRoot(root);
 appRoot.render(
   <Provider store={store}>
     <App />
-  </Provider>
+  </Provider>,
 );
-

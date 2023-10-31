@@ -1,7 +1,7 @@
 import { FETCH_GREETING } from '../actions/greetingActions';
 
 const initialState = {
-  greeting: ''
+  greeting: '',
 };
 
 export default function greetingReducer(state = initialState, action) {
