@@ -26,6 +26,8 @@
 # 👋 Hello Ract Front-end<a name="about-project"></a>
 This is an exercise to connect the Front-end with the Back-end as two individual applications.
 
+- [Rails Back-end](https://github.com/bohaz/hello-rails-back-end)
+
 ## 🛠 Built With:<a name="built-with"></a>
 - React
 - Redux
@@ -133,6 +135,6 @@ If you like this project let me know with a STAR⭐!
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./LICENSE.md) licensed.
+This project is [MIT](https://github.com/bohaz/hello-react-front-end/blob/set-up-frontend/MIT.md) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
